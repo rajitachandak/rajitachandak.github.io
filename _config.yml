@@ -6,3 +6,15 @@ url: 'https:/rajitachandak.github.io'
 # Build Settings
 theme: minima
 
+# Exclude from build
+exclude:
+ - Gemfile
+ - Gemfile.lock
+
+#theme settings
+minima:
+  date_format: "%b %-d, %Y"
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

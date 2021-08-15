@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+
+root_dir=$(git rev-parse --show-toplevel)
+
+# Build website
+cd $root_dir
+JEKYLL_ENV=development bundle exec jekyll serve

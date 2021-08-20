@@ -1,1 +1,170 @@
 @import "minima";
+
+/* colors */
+/* ================================================ */
+
+$col-bg: #202028;
+$col-bg2: #393949;
+$col-bg3: #54576a;
+$col-fg: #FFFFFF;
+$col-orange: #FFB86C;
+$col-yellow: #F1FA9C;
+$col-purple: #BDA0F9;
+$col-pink: #FF89C6;
+$col-green:  #50fa7b;
+$col-lightblue: #8be9fd;
+
+
+/* styling */
+/* ================================================ */
+
+body{
+    background-color: $col-bg;
+    color: $col-fg;
+    font-family: $sansserif;
+    font-size: 18px;
+}
+
+p{
+    margin-bottom: 20px;
+}
+
+li{
+    margin-bottom: 5px;
+}
+
+table{
+    color: $col-fg;
+    background-color: $col-bg;
+    margin-bottom: 5px;
+    margin-top: 30px;
+}
+
+table tr:nth-child(2n){
+    background-color: $col-bg;
+}
+
+table th{
+    background-color: $col-bg2;
+}
+
+.site-header{
+    border-top: none;
+    border-bottom: none;
+    min-height: 55px;
+    background: $col-bg2;
+}
+
+.site-title{
+    font-size: 30px;
+    &:visited{
+        color:$col-fg;
+    }
+}
+
+.page-heading{
+    font-size: 40px;
+    height: 40px;
+    line-height: 1;
+    margin-bottom: 30px;
+}
+
+.site-footer{
+    border-top: none;
+    padding: 8px;
+    background: $col-bg2;
+}
+
+.footer-col-wrapper{
+    color: $col-fg;
+}
+
+.page-link{
+    &:link{
+        color: $col-green;
+    }
+    &:visited{
+        color: $col-green;
+    }
+}
+
+.site-nav{
+    background: $col-bg2;
+    font-size: 19px;
+}
+
+.menu-icon path{
+    fill: $col-fg;
+}
+
+figure {
+    display: inline-block;
+    vertical-align: top;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 18px;
+}
+
+.svg-icon{
+    vertical-align: text-bottom;
+    padding-bottom: 2px;
+}
+
+.frame{
+    float: right;
+    padding-top: 55px;
+    padding-left: 20px;
+}
+
+h1{
+    color: $col-purple;
+    fontsize: 40px;
+}
+
+h2{
+    color: $col-orange;
+}
+
+h3{
+    color: $col-yellow;
+}
+
+h4{
+    color: $col-yellow;
+}
+
+a{
+    &:link{
+        color: $col-lightblue;
+    }
+    &:visited{
+        color: $col-lightblue;
+    }
+}
+
+a.post-link{
+    &:link{
+        color: $col-pink;
+    }
+    &:visited{
+        color: $col-pink;
+    }
+}
+
+.post-meta{
+    font-size: 16px;
+}
+
+pre{
+    background-color: $col-bg;
+    border-color: $col-bg3;
+    border-width: 2px;
+}
+
+code{
+    background-color: $col-bg;
+    border-color: $col-bg;
+    font-family: $monospace;
+}

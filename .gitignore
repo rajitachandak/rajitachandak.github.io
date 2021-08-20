@@ -12,3 +12,5 @@ Gemfile.lock
 
 # Gems
 *.gem
+
+.DS_Store

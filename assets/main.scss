@@ -1,4 +1,11 @@
 @import "minima";
-h1{ fontsize: 100px;}
-h2{ fontsize: 100px;}
-h3{ fontsize: 100px;}
+$text-color: #5B2C6F
+$background-color: #E5E8E8
+
+body{
+  background-color: #E5E8E8
+}
+
+h2{
+  color: #E5E8E8
+}

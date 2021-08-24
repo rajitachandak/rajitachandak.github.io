@@ -16,6 +16,11 @@ minima:
   date_format: "%b %-d, %Y"
 
 
+header_pages:
+ - publications.md
+ - software.md
+ - contact.md
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag

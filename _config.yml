@@ -6,7 +6,7 @@ title: Rajita Chandak
 author: Rajita Chandak
 email: rchandak@princeton.edu
 description: Welcome to my homepage.
-baseurl: ""
+markdown: kramdown
 url: 'https://rajitachandak.github.io/'
 
 # Build settings

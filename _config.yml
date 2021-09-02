@@ -1,0 +1,31 @@
+# This file is *NOT* reloaded automatically
+
+# Site variables
+# Can create custom variables, accessible via {{ site.myvariable }}
+title: Rajita Chandak
+author: Rajita Chandak
+email: rchandak@princeton.edu
+description: Welcome to my homepage.
+baseurl: ""
+url: 'https://rajitachandak.github.io/'
+
+# Build settings
+theme: minima
+show_excerpts: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+highlighter: rouge
+
+# Theme settings
+minima:
+  date_format: "%d %B %Y"
+
+header_pages:
+  - publications.markdown
+
+# Exclude from build
+exclude:
+- Gemfile
+- Gemfile.lock

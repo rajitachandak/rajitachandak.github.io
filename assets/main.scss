@@ -1,0 +1,25 @@
+---
+# main.scss
+---
+
+@import "minima";
+
+$bg-col: #EFF2FB;
+$text-col: #4B088A;
+$col-blue: #2E9AFE;
+$col-green: #088A08;
+
+body{
+  background-color: $bg-col;
+  color: $text-col;
+}
+
+h2{
+ color: $col-green;
+}
+
+.page-link{
+    &:link{
+        color: $col-blue;
+    }
+}

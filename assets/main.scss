@@ -4,18 +4,41 @@
 
 @import "minima";
 
-$bg-col: #EFF2FB;
-$text-col: #4B088A;
-$col-blue: #2E9AFE;
+$bg-col: #E9E0F4;
+$text-col: #100719;
+$col-purple: #6625A4;
+$col-blue: #075C98;
 $col-green: #088A08;
+$col-pink: #8A0868;
 
 body{
   background-color: $bg-col;
   color: $text-col;
 }
 
+figure{
+  display: inline-block;
+  vertical-align: top;
+}
+
+.frame{
+  float: right;
+  padding-top: 35px;
+  padding-left: 20px;
+}
+
 h2{
+ color: $col-purple;
+ margin-bottom:8px;
+ margin-top:50px;
+ font-size:25px;
+}
+
+h3{
  color: $col-green;
+ margin-bottom: 8px;
+ margin-top: 20px;
+ font-size: 20px;
 }
 
 .page-link{

@@ -4,8 +4,10 @@
 
 @import "minima";
 
-$bg-col: #E9E0F4;
-$text-col: #100719;
+$bg-col: #F9F9FC;
+$bg-col2: #F3E0F6;
+$text-col: #090909;
+$col-red: #7B032F;
 $col-purple: #6625A4;
 $col-blue: #075C98;
 $col-green: #088A08;
@@ -21,10 +23,35 @@ figure{
   vertical-align: top;
 }
 
+.site-header{
+    border-top: none;
+    border-bottom: none;
+    min-height: 55px;
+#    background: $bg-col2;
+}
+
+.site-footer{
+    border-top: none;
+    padding: 8px;
+    background: $bg-col2;
+}
+
 .frame{
   float: right;
   padding-top: 15px;
   padding-left: 20px;
+}
+a{
+    &:link{
+        color: $col-blue;
+    }
+    &:visited{
+        color: $col-blue;
+    }
+}
+
+h1{
+ color: $col-red;
 }
 
 h2{
@@ -43,6 +70,9 @@ h3{
 
 .page-link{
     &:link{
-        color: $col-blue;
+        color: $col-red;
+    }
+   &:visited{
+        color: $col-red;
     }
 }

@@ -8,6 +8,6 @@ permalink: /contact/
 Email me with any questions at
 [rchandak@princeton.edu](mailto:rchandak@princeton.edu)!
 
-## Other places to find me
+## Other Links
 - [GitHub](https://github.com/rajitachandak)
 - [LinkedIn](https://www.linkedin.com/in/rajitachandak/)

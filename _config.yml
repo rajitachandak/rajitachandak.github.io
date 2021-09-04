@@ -24,7 +24,7 @@ minima:
 
 header_pages:
   - publications.markdown
-
+  - contact.markdown
 # Exclude from build
 exclude:
 - Gemfile

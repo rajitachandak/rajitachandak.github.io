@@ -32,6 +32,7 @@ for forthcoming paper - A One-Step Conditional Density Estimator. <br>
 - **RD Packages** <br>
 All code and documentation available
 [here](https://rdpackages.github.io). <br>
+*rddensity*: Developing Python version of existing [R package](https://rdpackages.github.io/rddensity/). <br>
 
 
 ## Manuscripts

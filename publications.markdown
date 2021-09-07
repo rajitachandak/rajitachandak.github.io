@@ -18,7 +18,7 @@ and
 Joint work with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
-[Jason Kulsowski](https://jasonklusowski.github.io)
+[Jason Klusowski](https://jasonklusowski.github.io)
 
 ## Software
 

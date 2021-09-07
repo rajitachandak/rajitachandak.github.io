@@ -37,3 +37,19 @@ All code and documentation available
 
 ## Manuscripts
 
+- **Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions**
+<br>
+*Research completed in 2018 as a part of NSF-REU at 
+[WPI](https://www.wpi.edu) with 
+[Dr. Marcel Blais](https://www.wpi.edu/people/faculty/myblais)
+and
+[Dr. Stephan Sturm](https://www.wpi.edu/people/faculty/ssturm).*
+<br>
+
+- **Spatial Point Analysis of Segregated Communities and Enviornmental Justice Factors in New York**
+<br>
+*Research completed in 2017 as a part of NSF-REU at
+[CSU Chico](https://www.csuchico.edu) with 
+[Dr. Ben Nolting](http://www.bennolting.org).*
+
+

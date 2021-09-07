@@ -38,8 +38,9 @@ figure{
 
 .frame{
   float: right;
-  padding-top: 15px;
+#  padding-top: 5px;
   padding-left: 20px;
+#  padding-right: 20px;
 }
 a{
     &:link{
@@ -62,10 +63,16 @@ h2{
 }
 
 h3{
- color: $col-green;
+ color: $col-pink;
  margin-bottom: 8px;
  margin-top: 20px;
  font-size: 20px;
+}
+
+h4{
+  color: $col-green;
+  margin-bottom: 5px;
+  margin-top: 15px;
 }
 
 .page-link{

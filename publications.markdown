@@ -14,11 +14,11 @@ and
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/).<br>
 *Preprint Forthcoming.*
 
-- **Consistency of Generalized Linear Regression Trees** <br>
+- **Consistency of generalized regression trees** <br>
 Joint work with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
-[Jason Klusowski](https://jasonklusowski.github.io)
+[Jason Klusowski](https://jasonklusowski.github.io).
 
 ## Software
 
@@ -39,7 +39,7 @@ All code and documentation available
 
 - **Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions**
 <br>
-*Research completed in 2018 as a part of NSF-REU at 
+*Research completed in 2018 as a part of NSF-REU (Award DMS-1757685) at 
 [WPI](https://www.wpi.edu) with 
 [Dr. Marcel Blais](https://www.wpi.edu/people/faculty/myblais)
 and
@@ -48,7 +48,7 @@ and
 
 - **Spatial Point Analysis of Segregated Communities and Enviornmental Justice Factors in New York**
 <br>
-*Research completed in 2017 as a part of NSF-REU at
+*Research completed in 2017 as a part of NSF-REU (Award NSF 1559788) at
 [CSU Chico](https://www.csuchico.edu) with 
 [Dr. Ben Nolting](http://www.bennolting.org).*
 

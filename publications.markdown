@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Working Papers
 
-- **A One-Step Conditional Density Estimator** <br>
+- **A Boundary Adaptive Conditional Density Estimator** <br>
 Joint work with 
 [Matias Cattaneo](https://cattaneo.princeton.edu),
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)

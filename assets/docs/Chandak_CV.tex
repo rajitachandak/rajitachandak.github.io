@@ -1,0 +1,171 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2015 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[10pt,a4paper,roman]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+% \usepackage{hyperref}
+\usepackage{color}
+
+% moderncv themes
+\moderncvstyle{banking}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
+\moderncvcolor{purple}                               % color options 'black', 'blue' (default), 'burgundy', 'green', 'grey', 'orange', 'purple' and 'red'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+%\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+% \setlength{\makecvtitlenamewidth}{5cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Rajita}{Chandak}
+% \title{Curriculum Vitae}                               % optional, remove / comment the line if not wanted
+
+% \quote{}                                 % optional, remove / comment the line if not wanted
+\address{ORFE Department, Sherrerd Hall}{Princeton, NJ 08544}{USA}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
+% \phone[mobile]{+1~(401)~323~4159}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
+% \phone[fixed]{+2~(345)~678~901}
+% \phone[fax]{+3~(456)~789~012}
+\email{rchandak@princeton.edu}                               % optional, remove / comment the line if not wanted
+\homepage{rajitachandak.github.io}                         % optional, remove / comment the line if not wanted
+\social[linkedin]{rajitachandak}                        % optional, remove / comment the line if not wanted
+% \photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+
+% bibliography adjustements (only useful if you make citations in your resume, or print a list of publications using BibTeX)
+%   to show numerical labels in the bibliography (default is to show no labels)
+% \makeatletter\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}\makeatother
+%   to redefine the bibliography heading string ("Publications")
+%\renewcommand{\refname}{Articles}
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+% ---------------------------------------------------------
+\makecvtitle
+
+\section{Education}
+\cventry{2019--Present}{Ph.D. in Operations Research and Financial Engineering}{Princeton University}{Princeton, NJ, USA}{}{Ph.D. Candidate in the Operations Research and Financial Engineering (ORFE) Department.\\
+\textbf{Advisor: }\color{blue}\href{https://cattaneo.princeton.edu}{Matias Cattaneo}\color{black}\\
+\textit{Relevant Coursework:} Statistical Theory, Probability Theory, Stochastic Calculus, Linear and Convex Optimization, Theory of Deep Learning, Mathematics of Data Science.}
+\cventry{2015--2019}{Sc.B. with Honors in Applied Mathematics-Economics}{Brown University}{Providence, RI, USA}{}{\textit{Relevant coursework:} Computational Probability and Statistics, Real Analysis, Operations Research (Probabilistic Models), Econometrics, Theory of General Equilibrium, Honors Linear Algebra, Partial and Ordinary Differential Equations, Honors Statistics and Inference.}  % arguments 3 to 6 can be left empty
+% \cventry{2016}{Certificate}{London School of Economics}{London, England}{}{The Political Economy of Public Policy (Session 2) and Introduction to Finance (Session 3)}
+% \cventry{2004--2015}{International Baccalaureate Diploma}{Oakridge International School (Newton Campus)}{Hyderabad, India}{}{\textit{Relevant coursework:} Math HL, Physics HL, Chemistry HL, Economics SL, English SL, Hindi B SL}
+
+% \section{Master thesis}
+% \cvitem{title}{\emph{Title}}
+% \cvitem{supervisors}{Supervisors}
+% \cvitem{description}{Short thesis abstract}
+
+\section{Experience}
+\subsection{Research Experience}
+\cventry{2021-Present}{Joint work with Matias Cattaneo and \color{blue}\href{https://jasonklusowski.github.io}{Jason Klusowski}}{Consistency of generalized regression trees}{Princeton University}{}{Working paper on consistency and applicability of generalized linear regression trees.}
+
+\cventry{2021-Present}{}{R and Python Software Development}{Princeton University}{}{Contributing to the \color{blue}\href{https://nppackages.github.io}{NP Packages }\color{black} and \color{blue}\href{https://rdpackages.github.io}{RD Packages }\color{black} collection with R and Python package development.}
+
+\cventry{2020-Present}{Joint work with Matias Cattaneo, \color{blue}\href{https://sites.google.com/view/xinweima/home?authuser=0}{Xinwei Ma }\color{black} and \color{blue}\href{https://sites.google.com/berkeley.edu/michael-jansson/}{Michael Jansson}}{A Boundary Adaptive Conditional Density Estimator}{Princeton University}{}{Developed a new local polynomial kernel density estimation method. Proved uniform consistency and inference procedures using strong approximation methods. Paper and companion R and Python packages to be released soon.}
+
+\cventry{2018-2019}{Department for Applied Mathematics}{Honors Thesis}{Brown University}{}{Researched \textit{energy-aware optimization of scalable load balancing strategies} under guidance of  \color{blue}\href{https://www.brown.edu/academics/applied-mathematics/faculty/kavita-ramanan/home}{Kavita Ramanan}\color{black}. Thesis focused on understanding stationary behaviour of TABS scheme under general service time distribution and identifying parameters to achieve greater efficiency and lower energy costs. Explored long term stationary behaviour of the system under the TABS scheme through limit theorems.}
+
+\cventry{2018}{Center for Industrial Mathematics and Statistics}{Research Experience for Undergraduates (REU) }{Worcester Polytechnique Institute}{Worcester Polytechnic Institute}{8-week summer research sponsored by NSF on financial modelling under the mentorship of \color{blue}\href{https://www.wpi.edu/people/faculty/myblais}{Marcel Blais }\color{black} and \color{blue}\href{https://www.wpi.edu/people/faculty/ssturm}{Stephan Sturm }\color{black} and industry liaisons Doherty Advisors LLC and State Street Global Services. \textit{(Award DMS 1757685)} \newline{}%
+\textit{Doherty Advisors LLC Project:} Created options pricing model for VIX and TYVIX with real-time data scraping from Bloomberg Terminal for investment strategies. Programming in Python and R.
+\newline{}
+\textit{State Street Project:} Worked on methodology to automate trade exception processing with the use of machine learning tools. All programming done in Python.
+}
+
+\cventry{2017}{California State University, Chico}{Research Experience for Undergraduates (REU)}{CSU Chico}{}{7-week research sponsored by NSF on Stochastic Processes with Dr. Ben Nolting. Developed Spatial Point Analysis of racially segregated communities and environmental justice factors using 2010 Census and EPA data. All programming done in Mathematica. \textit{(Award NSF 1559788)}}
+% \cventry{2013--2015}{Oakridge International School}{Extended Essay in Mathematics}{Hyderabad, India}{IB Diploma Program}{Authored essay in Mathematics on theory and use of RSA cryptography and its next best alternative.}
+\subsection{Teaching Experience}
+\cventry{2020-Present}{ORFE Department}{Graduate Assistant in Instruction}{Princeton, NJ}{Princeton University}{Graduate AI for the following courses:\\
+ORF 524 (Fall 2021)\\
+ORF 245 (Fall 2020, Spring 2021)}
+\cventry{2020-Present}{ORFE Department}{\color{blue}\href{https://orfe.princeton.edu/undergraduate/stwg}{Senior Thesis Writer's Group }\color{black} Co-Leader}{Princeton, NJ}{Princeton University}{Host programming workshops and office hours to support 4th year undergraduate students in the ORFE department with Thesis research, development and writing.}
+\cventry{Fall 2017, Spring 2019}{Applied Mathematics Department}{Undergraduate Teaching Assistant}{Providence, RI}{Brown University}{TA for Dr. Ben Kunsberg's APMA 1650 (Fall 2017).\\
+TA for Dr. Debankur Mukherjee's APMA1720: Monte Carlo Simulations with Applications to Finance (Spring 2019). \\
+TA for Dr. Srikar Prasad's MPA2065:Intro. to Data Science for the Masters of Public Affairs program (Spring 2018).}
+% \cventry{Fall 2018}{Data Science Initiative}{Course Assistant}{Providence, RI}{Brown University}{  Held weekly office hours and helped with Lab assignments in class.}
+
+\cventry{2017--2019}{\color{blue}\href{https://www.brown.edu/sheridan/programs-services/tutoring/staff}{Member of Tutor Advisory Board}\color{black}}{Tutor Leader and Peer Tutor}{Providence, RI}{Dean of the College, Brown University}{Tutored for ECON1110 Intermediate Microeconomics, ECON1210 Macroeconomics and ECON1629 Research Methods courses throughout the academic year. As a Tutor Leader, I organized monthly check-ins with and provided support to other Economics tutors.}
+% \subsection{Leadership Experience}
+% \cventry{2017--2019}{President (2017-2019) and Finance Director (2016-2017)}{\color{blue}\href{https://www.ted.com/tedx/events/30151}{TEDxBrownU}\color{black}}{Providence, RI}{Brown University}{Led organization of TED Salon Events and annual TEDxBrownU events.}
+% \cventry{2016--2019}{Outreach Director}{Generation Citizen}{Providence, RI}{Brown University}{Handled student recruitment, Chapter coordination with Student Activities Office at Brown. Organized education-related workshops for the Brown community, provided support for college volunteers with Generation Citizen@Brown. I also mentored students in Providence public schools on civic action projects.}
+% \cventry{2017--2018}{ECONDUG Academic Events Leader}{Economics Departmental Undergraduate Group}{Brown University}{}{Leader for academic events: Organize events such as Masters/PhD interactive panels, Free Lunch lecture series, film series and creative research panels for the undergraduate economics community at Brown University}
+
+
+\section{Programming Skills}
+% \begin{cvcolumns}
+\textbf{Advanced Proficiency: } Python, R, LaTeX, MATLAB, Mathematica\\
+\textbf{Intermediate Proficiency: } C++, STATA, Java
+% \cvcolumn{Advanced Proficiency}{Python, LaTeX, R, MATLAB, Mathematica}
+%   \cvcolumn{Advanced Proficiency}{Python\\ LaTeX\\ R\\ MATLAB\\ Mathematica}
+%   \cvcolumn{Intermediate Proficiency}{C++\\STATA\\ Java}
+% \end{cvcolumns}
+
+% \cvitem{Python}{Advanced, Machine Learning and Financial Modelling}
+% \cvitem{MATLAB}{Advanced, Statistical Computing involving MCMC}
+% \cvitem{Mathematica}{Advanced, Geo-spatial data mapping and spatial point analysis}
+% \cvitem{LaTeX}{Advanced, authored papers and beamer presentations}
+% \cvitem{STATA}{Intermediate, Economic data analysis}
+% \cvitem{R}{Intermediate, online Codeacademy course completed, some financial modelling done}
+% % \cvitem{Microsoft Office}{Advanced in Excel and Word}
+% \cvitem{C++}{Intermediate. Familiarity with C++ incorporation in R and Python}
+
+\section{Conferences}
+\cventry{16-19 January, 2019}{AMS, MAA}{Joint Mathematics Meeting}{Baltimore, MD}{}{Presented results of research done during REU at WPI (Summer 2018)}
+\cventry{26-28 October, 2018}{University of Michigan}{Graduate Research Opportunities for Women}{Ann Arbor, MI}{}{}
+\cventry{22 September, 2018}{Smith College}{Women in Mathematics in New England (WIMIN)}{Northampton, MA}{}{Delivered a talk based on research done during REU at WPI.}
+\cventry{16 July, 2018}{WPI}{MIST Workshop}{Worcester, MA}{Applied and Industrial Mathematics Institute for Secondary Teaching}{Delivered a talk titled \textit{Option Pricing for the VIX Using a Risk-Neutral Historical Distribution} based on research done during REU at WPI.}
+\cventry{17 March, 2018}{Brown University}{Symposium for Undergraduates in Mathematical Sciences (SUMS)}{Providence, RI}{}{Delivered a talk based on research done during REU at CSU, Chico.}
+\cventry{9-13 January, 2018}{AMS, MAA}{Joint Mathematics Meeting}{San Diego, CA}{}{Presented research work done during REU at CSU, Chico.}
+
+\section{Languages}
+\begin{cvcolumns}
+  \cvcolumn{}{\textbf{English:} Native Proficiency}
+  \cvcolumn{}{\textbf{Hindi:} Native Proficiency}
+\end{cvcolumns}
+
+% \section{References}
+% \begin{cvcolumns}
+%   \cvcolumn{}{\textbf{Dr. Kavita Ramanan} (Brown University)\\ \textbf{Dr. Marcel Blais} (WPI)}
+% %   \cvcolumn{}{\textbf{Marcel Blais} (WPI)}
+%   \cvcolumn{}{\textbf{Dr. Ben Nolting} (Nevada State College)\\\textbf{Dr. Stephan Sturm} (WPI)}
+% \end{cvcolumns}
+% \cvitem{English}{Native Proficiency}
+% \cvitem{Hindi}{Native Proficiency}
+
+% \section{Interests}
+% \cvitem{hobby 1}{Description}
+% \cvitem{hobby 2}{Description}
+% \cvitem{hobby 3}{Description}
+
+% \section{Extra 2}
+% \cvlistdoubleitem{Item 1}{Item 4}
+% \cvlistdoubleitem{Item 2}{Item 5}
+% \cvlistdoubleitem{Item 3}{Item 6. Like item 3 in the single column list before, this item is particularly long to wrap over several lines.}
+
+% \section{References}
+% \begin{cvcolumns}
+%   \cvcolumn{}{Kavita Ramanan}
+%   \cvcolumn{}{Marcel Blais}
+%   \cvcolumn{}{Ben Nolting}
+% \end{cvcolumns}
+% \begin{cvcolumns}
+%   \cvcolumn{Category 1}{\begin{itemize}\item Person 1\item Person 2\item Person 3\end{itemize}}
+%   \cvcolumn{Category 2}{Amongst others:\begin{itemize}\item Person 1, and\item Person 2\end{itemize}(more upon request)}
+%   \cvcolumn[0.5]{All the rest \& some more}{\textit{That} person, and \textbf{those} also (all available upon request).}
+% \end{cvcolumns}
+
+\clearpage
+\end{document}

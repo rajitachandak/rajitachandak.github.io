@@ -12,6 +12,7 @@ url: 'https://rajitachandak.github.io/'
 # Build settings
 theme: minima
 show_excerpts: true
+show_downloads: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

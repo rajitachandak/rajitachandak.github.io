@@ -27,7 +27,7 @@ All code and documentation available
 [here](https://nppackages.github.io).<br>
 *lpcde*: Developing R and Python companion package 
 for forthcoming paper - A Boundary Adaptive Conditional Density Estimator. <br>
-*lpdensity*: Developing Python version of existing [R package](https://nppackages.github.io/lpdensity/). <br>
+*[lpdensity](https://pypi.org/project/lpdensity/)*: Developed Python version of existing [R package](https://nppackages.github.io/lpdensity/). <br>
 
 - **RD Packages** <br>
 All code and documentation available

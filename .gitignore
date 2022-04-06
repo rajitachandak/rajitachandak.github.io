@@ -22,3 +22,7 @@ Gemfile.lock
 *.log
 *.synctex.gz
 *.out
+
+## Emacs
+auto/
+*.~undo-tree~

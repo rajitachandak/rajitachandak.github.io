@@ -26,3 +26,4 @@ Gemfile.lock
 ## Emacs
 auto/
 *.~undo-tree~
+*.org

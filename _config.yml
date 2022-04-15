@@ -25,6 +25,7 @@ minima:
 
 header_pages:
   - publications.markdown
+  - teaching.markdown
   - contact.markdown
 # Exclude from build
 exclude:

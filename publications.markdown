@@ -1,33 +1,36 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Research
+permalink: /research/
 ---
+
+## Preprints
+
+- **Boundary Adaptive Local Polynomial Conditional Density Estimators** <br>
+Joint work with 
+[Matias Cattaneo](https://cattaneo.princeton.edu),
+[Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
+and
+[Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0).<br>
+*[Arxiv Preprint](https://arxiv.org/abs/2204.10359)* | *[R package](https://nppackages.github.io/lpcde)* | *[Software Article](https://arxiv.org/abs/2204.10375)*
 
 ## Working Papers
 
-- **A Boundary Adaptive Conditional Density Estimator** <br>
-Joint work with 
-[Matias Cattaneo](https://cattaneo.princeton.edu),
-[Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)
-and
-[Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/).<br>
-*Preprint Forthcoming.*
-
-- **Consistency of generalized regression trees** <br>
+- **Consistency of oblique regression trees** <br>
 Joint work with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
-[Jason Klusowski](https://jasonklusowski.github.io).
+[Jason Klusowski](https://jasonklusowski.github.io). <br>
+*Preprint Forthcoming.* 
 
 ## Software
 
 - **NP Packages** <br>
 All code and documentation available 
 [here](https://nppackages.github.io).<br>
-*lpcde*: Developing R and Python companion package 
-for forthcoming paper - A Boundary Adaptive Conditional Density Estimator. <br>
-*[lpdensity](https://pypi.org/project/lpdensity/)*: Developed Python version of existing [R package](https://nppackages.github.io/lpdensity/). <br>
+*[lpcde](https://nppackages.github.io/lpcde)*: Developed companion R package for forthcoming paper. <br>
+*[lpdensity](https://pypi.org/project/lpdensity/)*:
+Developed Python version of existing [R package](https://nppackages.github.io/lpdensity/). <br>
 
 - **RD Packages** <br>
 All code and documentation available

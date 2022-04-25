@@ -5,9 +5,13 @@ permalink: /teaching/
 ---
 A list of courses I have served as an Assistant in Instruction for, in reverse chronological order.
 <h3> Princeton University </h3>
+
+<h4> Graduate Courses </h4>
 ORF 524: Statistical Theory and Methods, taught by
 <a href="https://cattaneo.princeton.edu">Matias Cattaneo</a>,
 Fall 2021.<br>
+
+<h4> Undergraduate Courses </h4>
 ORF 245: Fundamentals of Statistics, taught by
 <a href="https://cattaneo.princeton.edu">Matias Cattaneo</a>, 
 Spring 2021.<br>

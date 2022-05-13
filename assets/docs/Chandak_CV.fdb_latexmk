@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1650895653 "Chandak_CV.tex" "Chandak_CV.pdf" "Chandak_CV" 1650895654
+["pdflatex"] 1652447713 "Chandak_CV.tex" "Chandak_CV.pdf" "Chandak_CV" 1652447715
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc" 1529098226 2457 aaabbccba4df2a7f7371410ee4e075a3 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc" 1529098226 3124 3813fd4c981d99822890a2861b0d274c ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -162,11 +162,11 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1637105474 2724737 f044d254abcd4a14394861a53d929534 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "Chandak_CV.aux" 1650895654 1608 f0537334edb8cb386ea9d1c0996f7ec4 "pdflatex"
-  "Chandak_CV.out" 1650895654 1076 c10eba53056fa9bf08a1c60e657b2fcc "pdflatex"
-  "Chandak_CV.tex" 1650895652 14886 1e66d534a98a9eae04c580caacb6c578 ""
+  "Chandak_CV.aux" 1652447714 1608 06dfb4f113ac9b093a6efe81ccf85fd5 "pdflatex"
+  "Chandak_CV.out" 1652447714 1076 c10eba53056fa9bf08a1c60e657b2fcc "pdflatex"
+  "Chandak_CV.tex" 1652447712 15164 1daf33050ef30ccb030775081e0c0fc1 ""
   (generated)
-  "Chandak_CV.aux"
-  "Chandak_CV.pdf"
   "Chandak_CV.log"
   "Chandak_CV.out"
+  "Chandak_CV.pdf"
+  "Chandak_CV.aux"

@@ -25,17 +25,15 @@ and
 
 ## Software
 
-- **NP Packages** <br>
-All code and documentation available 
-[here](https://nppackages.github.io).<br>
+- **[NP Packages](https://nppackages.github.io)** <br>
+[Github repository](https://github.com/nppackages).<br>
 *[lpcde](https://nppackages.github.io/lpcde)*: Developed companion R package for forthcoming paper. <br>
 *[lpdensity](https://pypi.org/project/lpdensity/)*:
-Developed Python version of existing [R package](https://nppackages.github.io/lpdensity/). <br>
+Developed Python version of existing [R package](https://nppackages.github.io/lpdensity_doc/). <br>
 
-- **RD Packages** <br>
-All code and documentation available
-[here](https://rdpackages.github.io). <br>
-*rddensity*: Developing Python version of existing [R package](https://rdpackages.github.io/rddensity/). <br>
+- **[RD Packages](https://rdpackages.github.io)** <br>
+[Github repository](https://github.com/rdpackages).<br>
+*[rddensity](https://pypi.org/project/rddensity/)*: Developed Python version of existing [R package](https://rdpackages.github.io/rddensity_doc/). <br>
 
 
 ## Manuscripts

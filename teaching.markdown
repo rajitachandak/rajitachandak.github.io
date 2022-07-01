@@ -9,6 +9,9 @@ A list of courses I have served as an Assistant in Instruction for, in reverse c
 <h4> Graduate Courses </h4>
 ORF 524: Statistical Theory and Methods, taught by
 <a href="https://cattaneo.princeton.edu">Matias Cattaneo</a>,
+Fall 2022.<br>
+ORF 524: Statistical Theory and Methods, taught by
+<a href="https://cattaneo.princeton.edu">Matias Cattaneo</a>,
 Fall 2021.<br>
 
 <h4> Undergraduate Courses </h4>

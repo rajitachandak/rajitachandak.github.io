@@ -21,6 +21,7 @@ Gemfile.lock
 *.log
 *.synctex.gz
 *.out
+*.fdb_latexmk
 
 ## Emacs
 auto/

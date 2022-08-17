@@ -38,6 +38,14 @@ Developed Python version of existing [R package](https://nppackages.github.io/lp
 
 ## Manuscripts
 
+- **Energy Aware Optimization of Scalable Load Balancing Strategies**
+<br>
+*Undergraduate Honors Thesis completed in 2019. Advised by 
+[Dr. Kavita Ramanan](https://www.brown.edu/academics/applied-mathematics/faculty/kavita-ramanan/home)
+and
+[Dr. Debankur Mukherjee](https://www.debankur-mukherjee.com).*
+<br>
+
 - **Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions**
 <br>
 *Research completed in 2018 as a part of NSF-REU (Award DMS-1757685) at 

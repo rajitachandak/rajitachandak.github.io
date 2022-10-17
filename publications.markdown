@@ -7,7 +7,7 @@ permalink: /research/
 ## Preprints
 
 - **Boundary Adaptive Local Polynomial Conditional Density Estimators** <br>
-Joint work with 
+Joint work with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
@@ -16,12 +16,12 @@ and
 
 ## Working Papers
 
-- **Consistency of oblique regression trees** <br>
+- **Convergence Rates of Oblique Regression Trees for Flexible Function Libraries** <br>
 Joint work with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
 [Jason Klusowski](https://jasonklusowski.github.io). <br>
-*Preprint Forthcoming.* 
+*Preprint Forthcoming.*
 
 ## Software
 
@@ -40,7 +40,7 @@ Developed Python version of existing [R package](https://nppackages.github.io/lp
 
 - **Energy Aware Optimization of Scalable Load Balancing Strategies**
 <br>
-*Undergraduate Honors Thesis completed in 2019. Advised by 
+*Undergraduate Honors Thesis completed in 2019. Advised by
 [Dr. Kavita Ramanan](https://www.brown.edu/academics/applied-mathematics/faculty/kavita-ramanan/home)
 and
 [Dr. Debankur Mukherjee](https://www.debankur-mukherjee.com).*
@@ -48,8 +48,8 @@ and
 
 - **Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions**
 <br>
-*Research completed in 2018 as a part of NSF-REU (Award DMS-1757685) at 
-[WPI](https://www.wpi.edu) with 
+*Research completed in 2018 as a part of NSF-REU (Award DMS-1757685) at
+[WPI](https://www.wpi.edu) with
 [Dr. Marcel Blais](https://www.wpi.edu/people/faculty/myblais)
 and
 [Dr. Stephan Sturm](https://www.wpi.edu/people/faculty/ssturm).*
@@ -58,7 +58,5 @@ and
 - **Spatial Point Analysis of Segregated Communities and Enviornmental Justice Factors in New York**
 <br>
 *Research completed in 2017 as a part of NSF-REU (Award NSF 1559788) at
-[CSU Chico](https://www.csuchico.edu) with 
+[CSU Chico](https://www.csuchico.edu) with
 [Dr. Ben Nolting](http://www.bennolting.org).*
-
-

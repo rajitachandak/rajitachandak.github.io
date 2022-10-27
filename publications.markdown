@@ -14,15 +14,12 @@ and
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0).<br>
 *[Arxiv Preprint](https://arxiv.org/abs/2204.10359)* | *[R package](https://nppackages.github.io/lpcde)* | *[Software Article](https://arxiv.org/abs/2204.10375)*
 
-## Working Papers
-
 - **Convergence Rates of Oblique Regression Trees for Flexible Function Libraries** <br>
 Joint work with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
 [Jason Klusowski](https://jasonklusowski.github.io). <br>
-*Preprint Forthcoming.*
-
+*[Arxiv Preprint](https://arxiv.org/abs/2210.14429)*
 ## Software
 
 - **[NP Packages](https://nppackages.github.io)** <br>

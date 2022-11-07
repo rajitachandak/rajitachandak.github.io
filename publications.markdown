@@ -6,6 +6,13 @@ permalink: /research/
 
 ## Preprints
 
+- **Convergence Rates of Oblique Regression Trees for Flexible Function Libraries** <br>
+Joint work with
+[Matias Cattaneo](https://cattaneo.princeton.edu)
+and
+[Jason Klusowski](https://jasonklusowski.github.io). <br>
+*[Arxiv Preprint](https://arxiv.org/abs/2210.14429)*
+
 - **Boundary Adaptive Local Polynomial Conditional Density Estimators** <br>
 Joint work with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
@@ -14,12 +21,6 @@ and
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0).<br>
 *[Arxiv Preprint](https://arxiv.org/abs/2204.10359)* | *[R package](https://nppackages.github.io/lpcde)* | *[Software Article](https://arxiv.org/abs/2204.10375)*
 
-- **Convergence Rates of Oblique Regression Trees for Flexible Function Libraries** <br>
-Joint work with
-[Matias Cattaneo](https://cattaneo.princeton.edu)
-and
-[Jason Klusowski](https://jasonklusowski.github.io). <br>
-*[Arxiv Preprint](https://arxiv.org/abs/2210.14429)*
 ## Software
 
 - **[NP Packages](https://nppackages.github.io)** <br>

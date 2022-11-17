@@ -32,4 +32,4 @@ APMA 1720: Monte Carlo with Applications to Finance, taught by
 <a href="https://sites.google.com/site/debankurm/">Debankur Mukherjee</a>, Spring 2019.
 <br>
 APMA 1650: Statistical Inference I, taught by
-<a href="https://www.linkedin.com/in/benjamin-kunsberg-9794418/">Dr. Benjamin Kunsberg</a>,  Fall 2017. <br>
+<a href="https://www.linkedin.com/in/benjamin-kunsberg-9794418/">Benjamin Kunsberg</a>,  Fall 2017. <br>

@@ -58,3 +58,55 @@ and
 *Research completed in 2017 as a part of NSF-REU (Award NSF 1559788) at
 [CSU Chico](https://www.csuchico.edu) with
 [Dr. Ben Nolting](http://www.bennolting.org).*
+
+## Talks
+
+### Upcoming
+- **Convergence Rates of Oblique Regression Trees for Flexible Function Libraries**
+<br>
+*Topic session on trees, Joint Statistical Meeting*
+<br>
+August 2023
+
+### Past Presentations
+- **Energy Aware Optimization of Scalable Load Balancing Strategies**
+<br>
+*Symposium for Undergraduates in Mathematical Sciences (SUMS), Brown University*
+<br>
+March 2019
+
+- **Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions**
+<br>
+*Undergraduate Symposium, Joint Mathematics Meeting*
+<br>
+January 2019
+
+- **Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions**
+<br>
+*Undergraduate Symposium, Joint Mathematics Meeting*
+<br>
+January 2019
+
+- **Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions**
+<br>
+*Women in Mathematics in New England, Smith College*
+<br>
+September 2018
+
+- **Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions**
+<br>
+*MIST Workshop*
+<br>
+July 2018
+
+- **Spatial Point Analysis of Segregated Communities and Enviornmental Justice Factors in New York**
+<br>
+*Symposium for Undergraduates in Mathematical Sciences (SUMS), Brown University*
+<br>
+March 2018
+
+- **Spatial Point Analysis of Segregated Communities and Enviornmental Justice Factors in New York**
+<br>
+*Undergraduate Symposium, Joint Mathematics Meeting*
+<br>
+January 2018

@@ -7,6 +7,9 @@ A list of courses I have served as an Assistant in Instruction for, in reverse c
 <h3> Princeton University </h3>
 
 <h4> Graduate Courses </h4>
+ORF 504: Financial Econometrics, taught by
+<a href="https://jasonklusowski.github.io">Jason Klusowski</a>,
+Spring 2023.<br>
 ORF 524: Statistical Theory and Methods, taught by
 <a href="https://cattaneo.princeton.edu">Matias Cattaneo</a>,
 Fall 2022.<br>

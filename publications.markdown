@@ -64,7 +64,7 @@ and
 ### Upcoming
 - **Convergence Rates of Oblique Regression Trees for Flexible Function Libraries**
 <br>
-*Topic session on trees, Joint Statistical Meeting*
+*Contributed-topic session on trees and random forests, Joint Statistical Meeting*
 <br>
 August 2023
 

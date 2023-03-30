@@ -1,4 +1,6 @@
 #+TITLE: Website
 #+Author: Rajita Chandak
 
-** TODO edit footer
+** TODO Cleanup footer
+** TODO Change talks/conferences formatting
+** TODO Add tutoring to teaching tab

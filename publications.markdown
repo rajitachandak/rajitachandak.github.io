@@ -68,6 +68,12 @@ and
 <br>
 August 2023
 
+- **Convergence Rates of Oblique Regression Trees for Flexible Function Libraries**
+<br>
+*Graduate Research Fellowship Workshop, Jane Street*
+<br>
+April 2023
+
 ### Past Presentations
 - **Energy Aware Optimization of Scalable Load Balancing Strategies**
 <br>

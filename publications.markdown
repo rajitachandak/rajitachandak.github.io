@@ -62,57 +62,51 @@ and
 ## Talks
 
 ### Upcoming
-- **Convergence Rates of Oblique Regression Trees for Flexible Function Libraries**
+- **Contributed-topic session on trees and random forests, Joint Statistical Meeting**
 <br>
-*Contributed-topic session on trees and random forests, Joint Statistical Meeting*
+*Convergence Rates of Oblique Regression Trees for Flexible Function Libraries*
 <br>
 August 2023
 
-- **Convergence Rates of Oblique Regression Trees for Flexible Function Libraries**
+- **Graduate Research Fellowship Workshop, Jane Street**
 <br>
-*Graduate Research Fellowship Workshop, Jane Street*
+*Convergence Rates of Oblique Regression Trees for Flexible Function Libraries*
 <br>
 April 2023
 
 ### Past Presentations
-- **Energy Aware Optimization of Scalable Load Balancing Strategies**
+- **Symposium for Undergraduates in Mathematical Sciences (SUMS), Brown University**
 <br>
-*Symposium for Undergraduates in Mathematical Sciences (SUMS), Brown University*
+*Energy Aware Optimization of Scalable Load Balancing Strategies*
 <br>
 March 2019
 
-- **Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions**
+- **Undergraduate Symposium, Joint Mathematics Meeting**
 <br>
-*Undergraduate Symposium, Joint Mathematics Meeting*
-<br>
-January 2019
-
-- **Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions**
-<br>
-*Undergraduate Symposium, Joint Mathematics Meeting*
+*Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions*
 <br>
 January 2019
 
-- **Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions**
+- **Women in Mathematics in New England, Smith College**
 <br>
-*Women in Mathematics in New England, Smith College*
+*Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions*
 <br>
 September 2018
 
-- **Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions**
+- **MIST Workshop at Worcester Polytechnic Institute (WPI)**
 <br>
-*MIST Workshop*
+*Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions*
 <br>
 July 2018
 
-- **Spatial Point Analysis of Segregated Communities and Enviornmental Justice Factors in New York**
+- **Symposium for Undergraduates in Mathematical Sciences (SUMS), Brown University**
 <br>
-*Symposium for Undergraduates in Mathematical Sciences (SUMS), Brown University*
+*Spatial Point Analysis of Segregated Communities and Enviornmental Justice Factors in New York*
 <br>
 March 2018
 
-- **Spatial Point Analysis of Segregated Communities and Enviornmental Justice Factors in New York**
+- **Undergraduate Symposium, Joint Mathematics Meeting**
 <br>
-*Undergraduate Symposium, Joint Mathematics Meeting*
+*Spatial Point Analysis of Segregated Communities and Enviornmental Justice Factors in New York*
 <br>
 January 2018

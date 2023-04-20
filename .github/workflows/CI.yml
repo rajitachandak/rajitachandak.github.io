@@ -5,6 +5,10 @@ on: [push]
 
 jobs:
   build-test:
+    defaults:
+      run:
+        working-directory: assets/docs/
+      
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -14,5 +18,4 @@ jobs:
         uses: hspaans/latexmk-action@v1
         with:
           format: pdf
-          working-directory: assets/docs/
           filename: Chandak_CV.tex

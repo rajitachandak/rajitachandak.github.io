@@ -17,10 +17,10 @@ jobs:
           filename: assets/docs/Chandak_CV.tex
       - name: Push generated files to branch 'gh-pages'
         run: |
-          mv *.pdf assets/docs/*.pdf
+          mv *.pdf assets/docs/Chandak_CV.pdf
           git config user.name $GITHUB_ACTOR
           git config user.email $GITHUB_ACTOR@users.noreply.github.com
-          git add assets/docs/*.pdf
+          git add assets/docs/Chandak_CV.pdf
           git commit -m "Build CV"
           git push 
         if: ${{ success() }}

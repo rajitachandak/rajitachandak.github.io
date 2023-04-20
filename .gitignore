@@ -21,7 +21,6 @@ vendor/
 *.synctex.gz
 *.out
 *.fdb_latexmk
-*.pdf
 
 ## Emacs
 auto/

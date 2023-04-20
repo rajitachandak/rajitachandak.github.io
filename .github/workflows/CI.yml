@@ -18,7 +18,7 @@ jobs:
       - name: Push generated files to branch 'gh-pages'
         run: |
           mkdir -p static/pdf
-          mv assets/docs/Chandak_CV.pdf static/pdf
+          mv *.pdf static/pdf
           cd static/pdf
           git init -b main
           git config user.name $GITHUB_ACTOR

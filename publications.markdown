@@ -68,13 +68,13 @@ and
 <br>
 August 2023
 
+### Past Presentations
 - **Graduate Research Fellowship Workshop, Jane Street**
 <br>
 *Convergence Rates of Oblique Regression Trees for Flexible Function Libraries*
 <br>
 April 2023
 
-### Past Presentations
 - **Symposium for Undergraduates in Mathematical Sciences (SUMS), Brown University**
 <br>
 *Energy Aware Optimization of Scalable Load Balancing Strategies*

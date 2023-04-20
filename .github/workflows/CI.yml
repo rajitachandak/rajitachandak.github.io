@@ -18,6 +18,8 @@ jobs:
       - name: Push generated files to branch 'gh-pages'
         run: |
           mv *.pdf assets/docs/*.pdf
+          git config user.name $GITHUB_ACTOR
+          git config user.email $GITHUB_ACTOR@users.noreply.github.com
           git add assets/docs/*.pdf
           git commit -m "Build CV"
           git push 

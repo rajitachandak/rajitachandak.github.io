@@ -14,5 +14,5 @@ jobs:
         uses: hspaans/latexmk-action@v1
         with:
           format: pdf
-          directory: assets/docs/
+          working-directory: assets/docs/
           filename: Chandak_CV.tex

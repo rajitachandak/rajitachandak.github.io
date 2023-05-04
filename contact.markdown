@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-## Email me
+## Email
 [rchandak@princeton.edu](mailto:rchandak@princeton.edu)
 
 ## Other links

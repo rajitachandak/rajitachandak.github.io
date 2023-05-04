@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Teaching Assistantships
+## Teaching Assistant
 
 A list of courses I have served as an Assistant in Instruction for, in reverse chronological order.
 ### Princeton University
@@ -44,7 +44,7 @@ APMA 1650: Statistical Inference I, taught by
 
 ### Princeton University
 
-- **Senior Thesis Writers Group**
+- **Senior Thesis Writers Group Co-Leader**
 <br>
 Mentoring ORFE fourth year undergraduate students with their theses.
 <br>
@@ -54,7 +54,7 @@ Mentoring ORFE fourth year undergraduate students with their theses.
 
 - **Peer Tutoring**
 <br>
-University-sposored tutoring program.
+University-sponsored tutoring program.
 Lead group of tutors for advanced economics courses.
 
 - **Generation Citizen Civics Counsellor**

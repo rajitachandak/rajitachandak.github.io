@@ -12,7 +12,13 @@ permalink: /talks/
 <br>
 August 2023
 
-## Past Presentations
+## Previously
+- **Statistical Foundations of Data Science and their applications, Princeton University**
+<br>
+*Organizing committee member*
+<br>
+May 2023
+
 - **Graduate Research Fellowship Workshop, Jane Street**
 <br>
 *Convergence Rates of Oblique Regression Trees for Flexible Function Libraries*

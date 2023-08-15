@@ -21,6 +21,9 @@ ORF 524: Statistical Theory and Methods, taught by
 Fall 2021.<br>
 
 #### Undergraduate Courses
+ORF 478: Senior Thesis, taught by
+<a href="https://drigobon.com">Daniel Rigobon</a>,
+Fall 2023.<br>
 ORF 245: Fundamentals of Statistics, taught by
 <a href="https://cattaneo.princeton.edu">Matias Cattaneo</a>,
 Spring 2021.<br>
@@ -47,6 +50,8 @@ APMA 1650: Statistical Inference I, taught by
 - **Senior Thesis Writers Group Co-Leader**
 <br>
 Mentoring ORFE fourth year undergraduate students with their theses.
+<br>
+Offered as ORF 478 starting Fall 2023.
 <br>
 <a href="https://orfe.princeton.edu/undergraduate/stwg">Webpage</a>
 

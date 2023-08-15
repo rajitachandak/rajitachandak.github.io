@@ -5,14 +5,12 @@ permalink: /talks/
 ---
 
 
-## Upcoming
 - **Contributed-topic session on trees and random forests, Joint Statistical Meeting**
 <br>
 *Convergence Rates of Oblique Regression Trees for Flexible Function Libraries*
 <br>
 August 2023
 
-## Previously
 - **Statistical Foundations of Data Science and their applications, Princeton University**
 <br>
 *Organizing committee member*

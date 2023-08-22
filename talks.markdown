@@ -11,9 +11,9 @@ permalink: /talks/
 <br>
 August 2023
 
-- **Statistical Foundations of Data Science and their applications, Princeton University**
+- **Statistical foundations of data science and their applications, Princeton University**
 <br>
-*Organizing committee member*
+*Local organizing committee member*
 <br>
 May 2023
 

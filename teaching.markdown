@@ -21,7 +21,7 @@ ORF 524: Statistical Theory and Methods, taught by
 Fall 2021.<br>
 
 #### Undergraduate Courses
-ORF 478: Senior Independent Research Foundations, taught by
+ORF 498: Senior Independent Research Foundations, taught by
 <a href="https://drigobon.com">Daniel Rigobon</a>,
 Fall 2023.<br>
 ORF 245: Fundamentals of Statistics, taught by

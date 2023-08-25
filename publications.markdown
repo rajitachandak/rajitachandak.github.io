@@ -37,6 +37,11 @@ Developed Python version of existing [R package](https://nppackages.github.io/lp
 [Github repository](https://github.com/rdpackages).<br>
 *[rddensity](https://pypi.org/project/rddensity/)*: Developed Python version of existing [R package](https://rdpackages.github.io/rddensity/). <br>
 
+## Peer Review
+- Journal of the American Statistical Association
+- Econometric Theory
+- Operations Research
+- Journal of Causal Inference.
 
 ## Manuscripts
 

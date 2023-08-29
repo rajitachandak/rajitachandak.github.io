@@ -10,7 +10,7 @@ permalink: /research/
 Joint work with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
-[Jason Klusowski](https://jasonklusowski.github.io). <br>
+[Jason Klusowski](https://klusowski.princeton.edu). <br>
 Annals of Statistics, revise and resubmit
 <br>
 ***[Arxiv Preprint](https://arxiv.org/abs/2210.14429)***

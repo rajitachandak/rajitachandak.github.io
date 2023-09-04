@@ -7,7 +7,7 @@ permalink: /research/
 ## Preprints
 
 - **Convergence Rates of Oblique Regression Trees for Flexible Function Libraries** <br>
-Joint work with
+with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
 [Jason Klusowski](https://klusowski.princeton.edu). <br>
@@ -16,7 +16,7 @@ Annals of Statistics, revise and resubmit
 ***[Arxiv Preprint](https://arxiv.org/abs/2210.14429)***
 
 - **Boundary Adaptive Local Polynomial Conditional Density Estimators** <br>
-Joint work with
+with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
@@ -24,6 +24,26 @@ and
 Bernoulli, revise and resubmit
 <br>
 ***[Arxiv Preprint](https://arxiv.org/abs/2204.10359)*** | ***[R package](https://nppackages.github.io/lpcde)*** | ***[Software Article](https://arxiv.org/abs/2204.10375)***
+
+## Working Papers
+- **Consistency of the high-dimensional EM algorithm** <br>
+with
+[Matias Cattaneo](https://cattaneo.princeton.edu)
+and
+[Jason Klusowski](https://klusowski.princeton.edu).
+
+- **Adaptive Mondrian Random Forests** <br>
+with
+[Matias Cattaneo](https://cattaneo.princeton.edu),
+[William Underwood](https://wgunderwood.github.io),
+and
+[Jason Klusowski](https://klusowski.princeton.edu).
+
+- **Variable importance for oblique regression trees** <br>
+with
+[Matias Cattaneo](https://cattaneo.princeton.edu)
+and
+[Jason Klusowski](https://klusowski.princeton.edu).
 
 ## Software
 

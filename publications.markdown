@@ -11,7 +11,7 @@ with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
 [Jason Klusowski](https://klusowski.princeton.edu). <br>
-Annals of Statistics, revise and resubmit
+*Annals of Statistics*, revise and resubmit
 <br>
 ***[Arxiv Preprint](https://arxiv.org/abs/2210.14429)***
 
@@ -21,7 +21,7 @@ with
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0).<br>
-Bernoulli, revise and resubmit
+*Bernoulli*, revise and resubmit
 <br>
 ***[Arxiv Preprint](https://arxiv.org/abs/2204.10359)*** | ***[R package](https://nppackages.github.io/lpcde)*** | ***[Software Article](https://arxiv.org/abs/2204.10375)***
 

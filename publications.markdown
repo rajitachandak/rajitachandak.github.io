@@ -32,7 +32,7 @@ with
 and
 [Jason Klusowski](https://klusowski.princeton.edu).
 
-- **Adaptive mondrian random forests** <br>
+- **Adaptive Mondrian Random Forests** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
 [William Underwood](https://wgunderwood.github.io),

@@ -10,58 +10,66 @@ permalink: /research/
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
-[Jason Klusowski](https://klusowski.princeton.edu). <br>
+[Jason Klusowski](https://klusowski.princeton.edu) <br>
 *Annals of Statistics*, revise and resubmit
 <br>
-***[Arxiv Preprint](https://arxiv.org/abs/2210.14429)***
+***[arXiv](https://arxiv.org/abs/2210.14429)***
 
 - **Boundary Adaptive Local Polynomial Conditional Density Estimators** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
-[Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0).<br>
+[Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)<br>
 *Bernoulli*, revise and resubmit
 <br>
-***[Arxiv Preprint](https://arxiv.org/abs/2204.10359)*** | ***[R package](https://nppackages.github.io/lpcde)*** | ***[Software Article](https://arxiv.org/abs/2204.10375)***
+***[arXiv](https://arxiv.org/abs/2204.10359)*** | ***[R package](https://nppackages.github.io/lpcde)***
+
+- **lpcde: Local Polynomial Conditional Density Estimation and Inference** <br>
+with
+[Matias Cattaneo](https://cattaneo.princeton.edu),
+[Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
+and
+[Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)<br>
+***[Software Article](https://arxiv.org/abs/2204.10375)***
 
 ## Working Papers
 - **Consistency of the high-dimensional EM algorithm** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
-[Jason Klusowski](https://klusowski.princeton.edu).
+[Jason Klusowski](https://klusowski.princeton.edu)
 
 - **Adaptive Mondrian Random Forests** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
 [William Underwood](https://wgunderwood.github.io),
 and
-[Jason Klusowski](https://klusowski.princeton.edu).
+[Jason Klusowski](https://klusowski.princeton.edu)
 
 - **Variable importance for oblique regression trees** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
-[Jason Klusowski](https://klusowski.princeton.edu).
+[Jason Klusowski](https://klusowski.princeton.edu)
 
 ## Software
 
 - **[NP Packages](https://nppackages.github.io)** <br>
-[Github repository](https://github.com/nppackages).<br>
-*[lpcde](https://nppackages.github.io/lpcde)*: Developed companion R package for forthcoming paper. <br>
+[Github repository](https://github.com/nppackages)<br>
+*[lpcde](https://nppackages.github.io/lpcde)*: Developed companion R package for forthcoming paper <br>
 *[lpdensity](https://pypi.org/project/lpdensity/)*:
-Developed Python version of existing [R package](https://nppackages.github.io/lpdensity/). <br>
+Developed Python version of existing [R package](https://nppackages.github.io/lpdensity/) <br>
 
 - **[RD Packages](https://rdpackages.github.io)** <br>
-[Github repository](https://github.com/rdpackages).<br>
-*[rddensity](https://pypi.org/project/rddensity/)*: Developed Python version of existing [R package](https://rdpackages.github.io/rddensity/). <br>
+[Github repository](https://github.com/rdpackages)<br>
+*[rddensity](https://pypi.org/project/rddensity/)*: Developed Python version of existing [R package](https://rdpackages.github.io/rddensity/) <br>
 
 ## Peer Review
 - Journal of the American Statistical Association
 - Econometric Theory
 - Operations Research
-- Journal of Causal Inference.
+- Journal of Causal Inference
 
 ## Manuscripts
 

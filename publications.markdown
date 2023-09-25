@@ -34,13 +34,13 @@ and
 ***[Software Article](https://arxiv.org/abs/2204.10375)***
 
 ## Working Papers
-- **Consistency of the high-dimensional EM algorithm** <br>
+- **Consistency of the EM algorithm in high dimensions** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
 [Jason Klusowski](https://klusowski.princeton.edu)
 
-- **Adaptive Mondrian Random Forests** <br>
+- **Adaptive Mondrian random forests** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
 [William Underwood](https://wgunderwood.github.io),

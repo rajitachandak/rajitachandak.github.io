@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Preprints
 
-- **Convergence Rates of Oblique Regression Trees for Flexible Function Libraries** <br>
+- **Convergence rates of oblique regression trees for flexible function libraries** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
@@ -15,7 +15,7 @@ and
 <br>
 ***[arXiv](https://arxiv.org/abs/2210.14429)***
 
-- **Boundary Adaptive Local Polynomial Conditional Density Estimators** <br>
+- **Boundary adaptive local polynomial conditional density estimators** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
@@ -25,13 +25,13 @@ and
 <br>
 ***[arXiv](https://arxiv.org/abs/2204.10359)*** | ***[R package](https://nppackages.github.io/lpcde)***
 
-- **lpcde: Local Polynomial Conditional Density Estimation and Inference** <br>
+- **lpcde: Local polynomial conditional density estimation and inference** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)<br>
-***[Software Article](https://arxiv.org/abs/2204.10375)***
+***[R package](https://nppackages.github.io/lpcde)*** | ***[Software article](https://arxiv.org/abs/2204.10375)***
 
 ## Working Papers
 - **Consistency of the EM algorithm in high dimensions** <br>

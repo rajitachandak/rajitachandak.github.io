@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 
-- **Contributed-topic session on trees and random forests, Joint Statistical Meeting**
+- **Invited speaker for contributed-topic session, Joint Statistical Meeting**
 <br>
 *Convergence Rates of Oblique Regression Trees for Flexible Function Libraries*
 <br>
@@ -17,7 +17,7 @@ August 2023
 <br>
 May 2023
 
-- **Graduate Research Fellowship Workshop, Jane Street**
+- **Invited speaker at Graduate Research Fellowship Workshop, Jane Street**
 <br>
 *Convergence Rates of Oblique Regression Trees for Flexible Function Libraries*
 <br>

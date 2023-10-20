@@ -62,7 +62,7 @@ Offered as ORF 498 starting Fall 2023.
 
 - **Peer Tutoring**
 <br>
-Tutor leader at <a href="https://www.brown.edu/sheridan/programs-services/academic-tutoring">
+Tutor leader for Economics courses at <a href="https://www.brown.edu/sheridan/programs-services/academic-tutoring">
 Harriet W. Sheridan Center for Teaching and Learning</a> academic tutoring program.
 
 - **<a href="https://www.generationcitizen.org">Generation Citizen</a> Civics Counsellor and Chapter Coordinator**

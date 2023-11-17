@@ -43,9 +43,9 @@ and
 - **Adaptive Mondrian random forests** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
-[William Underwood](https://wgunderwood.github.io),
-and
 [Jason Klusowski](https://klusowski.princeton.edu)
+and
+[William Underwood](https://wgunderwood.github.io)
 
 - **Variable importance for oblique regression trees** <br>
 with
@@ -64,12 +64,6 @@ Developed Python version of existing [R package](https://nppackages.github.io/lp
 - **[RD Packages](https://rdpackages.github.io)** <br>
 [Github repository](https://github.com/rdpackages)<br>
 *[rddensity](https://pypi.org/project/rddensity/)*: Developed Python version of existing [R package](https://rdpackages.github.io/rddensity/) <br>
-
-## Peer Review
-- Journal of the American Statistical Association
-- Econometric Theory
-- Operations Research
-- Journal of Causal Inference
 
 ## Manuscripts
 

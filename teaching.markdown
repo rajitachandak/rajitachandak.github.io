@@ -21,7 +21,7 @@ ORF 524: Statistical Theory and Methods, taught by
 Fall 2021.<br>
 
 #### Undergraduate Courses
-SML 312: Reasearch Projects in Data Science, taught by
+SML 312: Research Projects in Data Science, taught by
 <a href="https://www.linkedin.com/in/jonathanhanke/">Jonathan Hanke</a>,
 Fall 2023.<br>
 ORF 498: Senior Independent Research Foundations, taught by

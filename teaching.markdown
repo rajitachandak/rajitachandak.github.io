@@ -21,6 +21,9 @@ ORF 524: Statistical Theory and Methods, taught by
 Fall 2021.<br>
 
 #### Undergraduate Courses
+ORF 499: Senior Thesis, taught by
+<a href="https://drigobon.com">Daniel Rigobon</a>,
+Spring 2024.<br>
 SML 312: Research Projects in Data Science, taught by
 <a href="https://www.linkedin.com/in/jonathanhanke/">Jonathan Hanke</a>,
 Fall 2023.<br>

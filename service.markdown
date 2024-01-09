@@ -18,7 +18,7 @@ permalink: /service/
 <br>
 Mentoring ORFE fourth year undergraduate students with their theses.
 <br>
-Offered as ORF 498 starting Fall 2023.
+Offered as a regular course (ORF 498/499) starting Fall 2023.
 <br>
 <a href="https://orfe.princeton.edu/undergraduate/stwg">Webpage</a>
 
@@ -26,7 +26,8 @@ Offered as ORF 498 starting Fall 2023.
 
 - **Peer Tutoring**
 <br>
-Tutor leader for Economics courses at <a href="https://www.brown.edu/sheridan/programs-services/academic-tutoring">
+Tutor leader and peer tutor for Economics courses at
+<a href="https://www.brown.edu/sheridan/programs-services/academic-tutoring">
 Harriet W. Sheridan Center for Teaching and Learning</a> academic tutoring program.
 
 - **<a href="https://www.generationcitizen.org">Generation Citizen</a> Civics Counsellor and Chapter Coordinator**

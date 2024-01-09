@@ -57,7 +57,7 @@ APMA 1650: Statistical Inference I, taught by
 <br>
 Mentoring ORFE fourth year undergraduate students with their theses.
 <br>
-Offered as ORF 498 starting Fall 2023.
+Offered as a regular course (ORF 498/499) starting Fall 2023.
 <br>
 <a href="https://orfe.princeton.edu/undergraduate/stwg">Webpage</a>
 

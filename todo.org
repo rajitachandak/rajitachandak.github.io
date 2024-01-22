@@ -1,5 +1,6 @@
-#+TITLE: Website
+#+TITLE: Personal website
 #+Author: Rajita Chandak
 
-** TODO Cleanup footer
-** TODO add tex build action
+** TODO fix footer
+** TODO convert index to md
+** TODO streamline talks

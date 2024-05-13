@@ -10,9 +10,9 @@ with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
 [Jason Klusowski](https://klusowski.princeton.edu) <br>
-*Annals of Statistics*, forthcoming
+*Annals of Statistics* 2024, Vol. 52, No. 2, 466-490
 <br>
-***[arXiv](https://arxiv.org/abs/2210.14429)***
+***[Paper](http://dx.doi.org/10.1214/24-AOS2354)***
 
 - **Boundary adaptive local polynomial conditional density estimators** <br>
 with

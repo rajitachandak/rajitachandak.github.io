@@ -12,7 +12,7 @@ and
 [Jason Klusowski](https://klusowski.princeton.edu) <br>
 *Annals of Statistics* 2024, Vol. 52, No. 2, 466-490
 <br>
-***[Paper](http://dx.doi.org/10.1214/24-AOS2354)***
+***[Paper](http://dx.doi.org/10.1214/24-AOS2354)*** | ***[Supplemental](http://doi.org/10.1214/24-AOS2354SUPP)***
 
 - **Boundary adaptive local polynomial conditional density estimators** <br>
 with

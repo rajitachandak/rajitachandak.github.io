@@ -20,7 +20,7 @@ with
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)<br>
-*Bernoulli*, forthcoming
+*Bernoulli*, 2024
 <br>
 ***[arXiv](https://arxiv.org/abs/2204.10359)*** | ***[R package](https://nppackages.github.io/lpcde)***
 
@@ -40,16 +40,18 @@ with
 and
 [Jason Klusowski](https://klusowski.princeton.edu)
 
+- **Fast convergence of the federated EM algorithm** <br>
+with
+[Zhixu Tao](https://www.linkedin.com/in/zhixu-tao-a02b77199/)
+and
+[Sanjeev Kulkarni](https://www.princeton.edu/~kulkarni/)
+
+- **Variable importance for oblique regression trees** <br>
+
 - **Adaptive Mondrian random forests** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
 [William Underwood](https://wgunderwood.github.io),
-and
-[Jason Klusowski](https://klusowski.princeton.edu)
-
-- **Variable importance for oblique regression trees** <br>
-with
-[Matias Cattaneo](https://cattaneo.princeton.edu)
 and
 [Jason Klusowski](https://klusowski.princeton.edu)
 

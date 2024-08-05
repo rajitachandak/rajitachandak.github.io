@@ -20,9 +20,9 @@ with
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)<br>
-*Bernoulli*, 2024
+*Bernoulli*, 2024, Vol. 30, No. 4, 3193-3223
 <br>
-***[arXiv](https://arxiv.org/abs/2204.10359)*** | ***[R package](https://nppackages.github.io/lpcde)***
+***[Paper](http://dx.doi.org/10.3150/23-BEJ1711)*** | ***[R package](https://nppackages.github.io/lpcde)***
 
 ## Preprints
 - **lpcde: Local polynomial conditional density estimation and inference** <br>

@@ -25,6 +25,14 @@ and
 ***[Paper](http://dx.doi.org/10.3150/23-BEJ1711)*** | ***[R package](https://nppackages.github.io/lpcde)***
 
 ## Preprints
+- **On the convergence of a federated expectation-maximization algorithm** <br>
+with
+[Zhixu Tao](https://www.linkedin.com/in/zhixu-tao-a02b77199/)
+and
+[Sanjeev Kulkarni](https://www.princeton.edu/~kulkarni/)
+<br>
+***[arXiv](https://arxiv.org/abs/2408.05819)***
+
 - **lpcde: Local polynomial conditional density estimation and inference** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
@@ -39,12 +47,6 @@ with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
 [Jason Klusowski](https://klusowski.princeton.edu)
-
-- **Fast convergence of the federated EM algorithm** <br>
-with
-[Zhixu Tao](https://www.linkedin.com/in/zhixu-tao-a02b77199/)
-and
-[Sanjeev Kulkarni](https://www.princeton.edu/~kulkarni/)
 
 - **Variable importance for oblique regression trees** <br>
 
@@ -68,6 +70,7 @@ Developed Python version of existing [R package](https://nppackages.github.io/lp
 *[rddensity](https://pypi.org/project/rddensity/)*: Developed Python version of existing [R package](https://rdpackages.github.io/rddensity/) <br>
 
 ## Peer Review
+- Bernoulli
 - Journal of the American Statistical Association
 - Econometric Theory
 - Operations Research

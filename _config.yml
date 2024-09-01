@@ -27,7 +27,7 @@ header_pages:
   - publications.markdown
   - teaching.markdown
   - talks.markdown
-  - contact.markdown
+
 # Exclude from build
 exclude:
 - Gemfile

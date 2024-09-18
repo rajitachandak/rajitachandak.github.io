@@ -1,6 +1,0 @@
-#+TITLE: Personal website
-#+Author: Rajita Chandak
-
-** TODO fix footer
-** TODO convert index to md
-** TODO streamline talks

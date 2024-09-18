@@ -31,6 +31,7 @@ with
 and
 [Sanjeev Kulkarni](https://www.princeton.edu/~kulkarni/)
 <br>
+*Submitted* <br>
 ***[arXiv](https://arxiv.org/abs/2408.05819)***
 
 - **lpcde: Local polynomial conditional density estimation and inference** <br>
@@ -39,6 +40,7 @@ with
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)<br>
+*Submitted* <br>
 ***[R package](https://nppackages.github.io/lpcde)*** | ***[Software article](https://arxiv.org/abs/2204.10375)***
 
 ## Working Papers

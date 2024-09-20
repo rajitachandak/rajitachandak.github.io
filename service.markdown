@@ -10,6 +10,13 @@ permalink: /service/
 - Operations Research
 - Journal of Causal Inference
 
+## Conference and Seminar Organization
+- **Statistical foundations of data science and their applications**, Princeton University
+<br>
+*Local organizing committee member*
+<br>
+May 2023
+
 ## Mentoring and Tutoring
 
 ### Princeton University

@@ -5,6 +5,7 @@ permalink: /talks/
 ---
 
 ### 2024
+- **Statistics Seminar**, Institute of Mathematics, École Polytechnique Fédérale de Lausanne (EPFL), December
 - **Econometrics Seminar**, Faculty of Business and Economics, University of Groningen, February
 - **Statistics Seminar**, Department of Statistics, London School of Economics (LSE), January
 - **Statistics Seminar**, Department of Statistics, University of Wisconsin-Madison, January

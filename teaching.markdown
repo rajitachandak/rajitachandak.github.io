@@ -10,7 +10,7 @@ A list of courses I have served as the primary instructor for, in reverse chrono
 ### EPFL
 #### Graduate Courses
 MATH 524: Nonparametric estimation and inference, Spring 2025. <br>
-MATH 413: Statistics for data science, Spring 2025 (co-taught with Myrto Limnios).
+MATH 413: Statistics for data science, Spring 2025 (co-taught with <a href="https://myrtolimnios.github.io">Myrto Limnios</a>).
 
 ## Teaching Assistant
 

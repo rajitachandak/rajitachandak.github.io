@@ -40,7 +40,7 @@ with
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)<br>
-*Submitted* <br>
+*JOSS, revise and resubmit* <br>
 ***[R package](https://nppackages.github.io/lpcde)*** | ***[Software article](https://arxiv.org/abs/2204.10375)***
 
 ## Working Papers

@@ -4,7 +4,7 @@
 # Can create custom variables, accessible via {{ site.myvariable }}
 title: Rajita Chandak
 author: Rajita Chandak
-email: rchandak@princeton.edu
+email: rajita.chandak@epfl.ch
 description: Welcome to my homepage.
 markdown: kramdown
 url: 'https://rajitachandak.github.io/'
@@ -28,7 +28,7 @@ header_pages:
   - teaching.markdown
   - talks.markdown
   - service.markdown
-  - contact.markdown
+
 # Exclude from build
 exclude:
 - Gemfile

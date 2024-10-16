@@ -4,57 +4,22 @@ title: Talks
 permalink: /talks/
 ---
 
+### 2024
+- **Econometrics Seminar**, Faculty of Business and Economics, University of Groningen, February
+- **Statistics Seminar**, Department of Statistics, London School of Economics (LSE), January
+- **Statistics Seminar**, Department of Statistics, University of Wisconsin-Madison, January
 
-- **Invited speaker for contributed-topic session, Joint Statistical Meeting**
-<br>
-*Convergence Rates of Oblique Regression Trees for Flexible Function Libraries*
-<br>
-August 2023
+### 2023
+- **Statistics Seminar**, Institute of Mathematics, École Polytechnique Fédérale de Lausanne (EPFL), December
+- **Invited speaker at contributed-topic session**, Joint Statistical Meeting (JSM), August
+- **Invited speaker at Graduate Research Fellowship Workshop**, Jane Street, April
 
-- **Statistical foundations of data science and their applications, Princeton University**
-<br>
-*Local organizing committee member*
-<br>
-May 2023
+### 2019
+- **Symposium for Undergraduates in Mathematical Sciences**, Brown University, March
+- **Undergraduate Symposium**, Joint Mathematics Meeting (JMM), January
 
-- **Invited speaker at Graduate Research Fellowship Workshop, Jane Street**
-<br>
-*Convergence Rates of Oblique Regression Trees for Flexible Function Libraries*
-<br>
-April 2023
-
-- **Symposium for Undergraduates in Mathematical Sciences (SUMS), Brown University**
-<br>
-*Energy Aware Optimization of Scalable Load Balancing Strategies*
-<br>
-March 2019
-
-- **Undergraduate Symposium, Joint Mathematics Meeting**
-<br>
-*Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions*
-<br>
-January 2019
-
-- **Women in Mathematics in New England, Smith College**
-<br>
-*Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions*
-<br>
-September 2018
-
-- **MIST Workshop at Worcester Polytechnic Institute (WPI)**
-<br>
-*Pricing VIX and TYVIX using Risk-Neutralized Historical Distributions*
-<br>
-July 2018
-
-- **Symposium for Undergraduates in Mathematical Sciences (SUMS), Brown University**
-<br>
-*Spatial Point Analysis of Segregated Communities and Enviornmental Justice Factors in New York*
-<br>
-March 2018
-
-- **Undergraduate Symposium, Joint Mathematics Meeting**
-<br>
-*Spatial Point Analysis of Segregated Communities and Enviornmental Justice Factors in New York*
-<br>
-January 2018
+### 2018
+- **Women in Mathematics in New England**, Smith College, September
+- **MIST Workshop**, Worcester Polytechnic Institute (WPI), July
+- **Symposium for Undergraduates in Mathematical Sciences**, Brown University, March
+- **Undergraduate Symposium**, Joint Mathematics Meeting (JMM), January

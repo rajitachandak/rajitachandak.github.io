@@ -4,7 +4,15 @@ title: Teaching
 permalink: /teaching/
 ---
 
-[comment]:## Teaching Assistant
+## Instructor
+A list of courses I have served as the primary instructor for, in reverse chronological order.
+
+### EPFL
+#### Graduate Courses
+MATH 524: Nonparametric estimation and inference, Spring 2025. <br>
+MATH 413: Statistics for data science, Spring 2025 (co-taught with <a href="https://myrtolimnios.github.io">Myrto Limnios</a>).
+
+## Teaching Assistant
 
 A list of courses I have served as an Assistant in Instruction for, in reverse chronological order.
 ### Princeton University

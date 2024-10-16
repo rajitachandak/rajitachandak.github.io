@@ -1,5 +1,0 @@
-#+TITLE: Website
-#+Author: Rajita Chandak
-
-** TODO Cleanup footer
-** TODO add tex build action

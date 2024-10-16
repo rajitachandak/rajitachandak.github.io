@@ -14,20 +14,20 @@ $col-green: #088A08;
 $col-pink: #8A0868;
 
 body{
-  background-color: $bg-col;
-  color: $text-col;
+    background-color: $bg-col;
+    color: $text-col;
 }
 
 figure{
-  display: inline-block;
-  vertical-align: top;
+    display: inline-block;
+    vertical-align: top;
 }
 
 .site-header{
     border-top: none;
     border-bottom: none;
     min-height: 55px;
-#    background: $bg-col2;
+    #    background: $bg-col2;
 }
 
 .site-footer{
@@ -37,11 +37,12 @@ figure{
 }
 
 .frame{
-  float: right;
-#  padding-top: 5px;
-  padding-left: 20px;
-#  padding-right: 20px;
+    float: right;
+    #  padding-top: 5px;
+    padding-left: 10px;
+    #  padding-right: 20px;
 }
+
 a{
     &:link{
         color: $col-blue;
@@ -52,21 +53,21 @@ a{
 }
 
 h1{
- color: $col-red;
+    color: $col-red;
 }
 
 h2{
- color: $col-purple;
- margin-bottom:8px;
- margin-top:50px;
- font-size:25px;
+    color: $col-purple;
+    margin-bottom:8px;
+    margin-top:50px;
+    font-size:25px;
 }
 
 h3{
- color: $col-pink;
- margin-bottom: 8px;
- margin-top: 20px;
- font-size: 20px;
+    color: $col-pink;
+    margin-bottom: 8px;
+    margin-top: 20px;
+    font-size: 20px;
 }
 
 h4{
@@ -82,4 +83,8 @@ h4{
    &:visited{
         color: $col-red;
     }
+}
+
+.imgContainer{
+    float:left;
 }

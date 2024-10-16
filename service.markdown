@@ -5,12 +5,20 @@ permalink: /service/
 ---
 
 ## Peer Review
+- Annals of Statistics
+- Bernoulli
 - Journal of the American Statistical Association
 - Econometric Theory
 - Operations Research
 - Journal of Causal Inference
 
 ## Conference and Seminar Organization
+- **Statistics Seminar**, EPFL
+<br>
+*Co-organizer*
+<br>
+2024 -- 2026
+
 - **Statistical foundations of data science and their applications**, Princeton University
 <br>
 *Local organizing committee member*

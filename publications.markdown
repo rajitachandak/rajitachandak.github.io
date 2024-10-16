@@ -5,26 +5,34 @@ permalink: /research/
 ---
 
 ## Publications
+- **Convergence rates of oblique regression trees for flexible function libraries** <br>
+with
+[Matias Cattaneo](https://cattaneo.princeton.edu)
+and
+[Jason Klusowski](https://klusowski.princeton.edu) <br>
+*Annals of Statistics* 2024, Vol. 52, No. 2, 466-490
+<br>
+***[Paper](http://dx.doi.org/10.1214/24-AOS2354)*** | ***[Supplemental](http://doi.org/10.1214/24-AOS2354SUPP)***
+
 - **Boundary adaptive local polynomial conditional density estimators** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)<br>
-*Bernoulli*, forthcoming
+*Bernoulli*, 2024, Vol. 30, No. 4, 3193-3223
 <br>
-***[arXiv](https://arxiv.org/abs/2204.10359)*** | ***[R package](https://nppackages.github.io/lpcde)***
+***[Paper](http://dx.doi.org/10.3150/23-BEJ1711)*** | ***[R package](https://nppackages.github.io/lpcde)***
 
 ## Preprints
-
-- **Convergence rates of oblique regression trees for flexible function libraries** <br>
+- **On the convergence of a federated expectation-maximization algorithm** <br>
 with
-[Matias Cattaneo](https://cattaneo.princeton.edu)
+[Zhixu Tao](https://www.linkedin.com/in/zhixu-tao-a02b77199/)
 and
-[Jason Klusowski](https://klusowski.princeton.edu) <br>
-*Annals of Statistics*, revise and resubmit
+[Sanjeev Kulkarni](https://www.princeton.edu/~kulkarni/)
 <br>
-***[arXiv](https://arxiv.org/abs/2210.14429)***
+*Submitted* <br>
+***[arXiv](https://arxiv.org/abs/2408.05819)***
 
 - **lpcde: Local polynomial conditional density estimation and inference** <br>
 with
@@ -32,6 +40,7 @@ with
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)<br>
+*Submitted* <br>
 ***[R package](https://nppackages.github.io/lpcde)*** | ***[Software article](https://arxiv.org/abs/2204.10375)***
 
 ## Working Papers
@@ -41,18 +50,14 @@ with
 and
 [Jason Klusowski](https://klusowski.princeton.edu)
 
+- **Variable importance for oblique regression trees** <br>
+
 - **Adaptive Mondrian random forests** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu),
 [Jason Klusowski](https://klusowski.princeton.edu)
 and
 [William Underwood](https://wgunderwood.github.io)
-
-- **Variable importance for oblique regression trees** <br>
-with
-[Matias Cattaneo](https://cattaneo.princeton.edu)
-and
-[Jason Klusowski](https://klusowski.princeton.edu)
 
 ## Software
 

@@ -33,3 +33,4 @@ header_pages:
 exclude:
 - Gemfile
 - Gemfile.lock
+- vendor

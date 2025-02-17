@@ -7,10 +7,11 @@ permalink: /service/
 ## Peer Review
 - Annals of Statistics
 - Bernoulli
-- Journal of the American Statistical Association
 - Econometric Theory
-- Operations Research
+- Journal of the American Statistical Association
 - Journal of Causal Inference
+- Journal of Econometrics
+- Operations Research
 
 ## Conference and Seminar Organization
 - **Statistics Seminar**, EPFL

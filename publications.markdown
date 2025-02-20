@@ -52,13 +52,6 @@ and
 
 - **Variable importance for oblique regression trees** <br>
 
-- **Adaptive Mondrian random forests** <br>
-with
-[Matias Cattaneo](https://cattaneo.princeton.edu),
-[Jason Klusowski](https://klusowski.princeton.edu)
-and
-[William Underwood](https://wgunderwood.github.io)
-
 ## Software
 
 - **[NP Packages](https://nppackages.github.io)** <br>

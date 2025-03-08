@@ -5,12 +5,21 @@ permalink: /research/
 ---
 
 ## Publications
+- **lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators** <br>
+with
+[Matias Cattaneo](https://cattaneo.princeton.edu),
+[Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
+and
+[Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)<br>
+*Journal of Open Statistical Software*, 2025, 10(107), 7241<br>
+***[R package](https://nppackages.github.io/lpcde)*** | ***[Article](https://doi.org/10.21105/joss.07241)*** | ***[Supplement](https://arxiv.org/abs/2204.10375)***
+
 - **Convergence rates of oblique regression trees for flexible function libraries** <br>
 with
 [Matias Cattaneo](https://cattaneo.princeton.edu)
 and
 [Jason Klusowski](https://klusowski.princeton.edu) <br>
-*Annals of Statistics* 2024, Vol. 52, No. 2, 466-490
+*Annals of Statistics*, 2024, Vol. 52, No. 2, 466-490
 <br>
 ***[Paper](http://dx.doi.org/10.1214/24-AOS2354)*** | ***[Supplemental](http://doi.org/10.1214/24-AOS2354SUPP)***
 
@@ -33,15 +42,6 @@ and
 <br>
 *Submitted* <br>
 ***[arXiv](https://arxiv.org/abs/2408.05819)***
-
-- **lpcde: Local polynomial conditional density estimation and inference** <br>
-with
-[Matias Cattaneo](https://cattaneo.princeton.edu),
-[Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
-and
-[Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)<br>
-*JOSS, revise and resubmit* <br>
-***[R package](https://nppackages.github.io/lpcde)*** | ***[Software article](https://arxiv.org/abs/2204.10375)***
 
 ## Working Papers
 - **Consistency of the EM algorithm in high dimensions** <br>

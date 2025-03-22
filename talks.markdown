@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
+### 2025
+- **Invited speaker**, <a href= "https://sites.google.com/view/eysmtorino2025/home?authuser=0">24th European Young Statisticians Meeting</a> (EYSM), Torino, July
 ### 2024
 - **Econometrics Seminar**, Faculty of Business and Economics, University of Groningen, February
 - **Statistics Seminar**, Department of Statistics, London School of Economics (LSE), January
@@ -11,8 +13,8 @@ permalink: /talks/
 
 ### 2023
 - **Statistics Seminar**, Institute of Mathematics, École Polytechnique Fédérale de Lausanne (EPFL), December
-- **Invited speaker at contributed-topic session**, Joint Statistical Meeting (JSM), August
-- **Invited speaker at Graduate Research Fellowship Workshop**, Jane Street, April
+- **Invited speaker at contributed-topic session**, Joint Statistical Meeting (JSM), Toronto, August
+- **Invited speaker at Graduate Research Fellowship Workshop**, Jane Street, NYC, April
 
 ### 2019
 - **Symposium for Undergraduates in Mathematical Sciences**, Brown University, March

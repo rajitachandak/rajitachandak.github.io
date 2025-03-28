@@ -6,6 +6,8 @@ permalink: /talks/
 
 ### 2025
 - **Invited speaker**, <a href= "https://sites.google.com/view/eysmtorino2025/home?authuser=0">24th European Young Statisticians Meeting</a> (EYSM), Torino, July
+- **Invited speaker**, Conference for Women in Mathematics, EPFL, Lausanne, May
+
 ### 2024
 - **Econometrics Seminar**, Faculty of Business and Economics, University of Groningen, February
 - **Statistics Seminar**, Department of Statistics, London School of Economics (LSE), January

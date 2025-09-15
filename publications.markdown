@@ -52,6 +52,13 @@ and
 
 - **Variable importance for oblique regression trees** <br>
 
+- **Manipulation testing based on distance to boundaries** <br>
+with
+[Matias Cattaneo](https://cattaneo.princeton.edu),
+[Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
+and
+[Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)
+
 ## Software
 
 - **[NP Packages](https://nppackages.github.io)** <br>

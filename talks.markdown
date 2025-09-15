@@ -5,6 +5,7 @@ permalink: /talks/
 ---
 
 ### 2025
+- **Invited speaker**, CFE-CMStatistics, London, December
 - **Invited speaker**, <a href= "https://sites.google.com/view/eysmtorino2025/home?authuser=0">24th European Young Statisticians Meeting</a> (EYSM), Torino, July
 - **Invited speaker**, Conference for Women in Mathematics, EPFL, Lausanne, May
 

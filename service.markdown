@@ -4,29 +4,14 @@ title: Service
 permalink: /service/
 ---
 
-## Peer Review
-- Annals of Statistics
-- Bernoulli
-- Econometric Theory
-- Journal of the American Statistical Association
-- Journal of Causal Inference
-- Journal of Econometrics
-- Operations Research
+## Mentoring
 
-## Conference and Seminar Organization
-- **Statistics Seminar**, EPFL
-<br>
-*Co-organizer*
-<br>
-2024 -- 2026
+### EPFL
 
-- **Statistical foundations of data science and their applications**, Princeton University
+- Masters thesis supervisor
+- Masters semester project supervisor
 <br>
-*Local organizing committee member*
-<br>
-May 2023
-
-## Mentoring and Tutoring
+*includes the Masters of Applied Mathematics, Masters of Statistics and Masters of Mathematics*
 
 ### Princeton University
 
@@ -49,3 +34,28 @@ Harriet W. Sheridan Center for Teaching and Learning</a> academic tutoring progr
 - **<a href="https://www.generationcitizen.org">Generation Citizen</a> Civics Counsellor and Chapter Coordinator**
 <br>
 Lead semester-long civics education classes in Providence middle and high schools.
+
+## Conference and Seminar Organization
+- **Statistics Seminar**, EPFL
+<br>
+*Co-organizer*
+<br>
+2024 -- 2026
+
+- **Statistical foundations of data science and their applications**, Princeton University
+<br>
+*Local organizing committee member**
+<br>
+May 2023
+
+## Peer Review
+- Annals of Statistics
+- Bernoulli
+- Econometric Reviews
+- Econometric Theory
+- Journal of the American Statistical Association
+- Journal of Causal Inference
+- Journal of Econometrics
+- Journal of Machine Learning Research (JMLR)
+- Journal of Statistical Planning and Inference
+- Operations Research

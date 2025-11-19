@@ -24,10 +24,10 @@ ORF 504: Financial Econometrics, taught by
 <a href="https://klusowski.princeton.edu">Jason Klusowski</a>,
 Spring 2023.<br>
 ORF 524: Statistical Theory and Methods, taught by
-<a href="https://cattaneo.princeton.edu">Matias Cattaneo</a>,
+<a href="https://mdcattaneo.github.io">Matias Cattaneo</a>,
 Fall 2022.<br>
 ORF 524: Statistical Theory and Methods, taught by
-<a href="https://cattaneo.princeton.edu">Matias Cattaneo</a>,
+<a href="https://mdcattaneo.github.io">Matias Cattaneo</a>,
 Fall 2021.<br>
 
 #### Undergraduate Courses
@@ -41,7 +41,7 @@ ORF 498: Senior Independent Research Foundations, taught by
 <a href="https://drigobon.com">Daniel Rigobon</a>,
 Fall 2023.<br>
 ORF 245: Fundamentals of Statistics, taught by
-<a href="https://cattaneo.princeton.edu">Matias Cattaneo</a>,
+<a href="https://mdcattaneo.github.io">Matias Cattaneo</a>,
 Spring 2021.<br>
 ORF 245: Fundamentals of Statistics, taught by
 <a href="https://fan.princeton.edu/links.html">Jianqing Fan</a>,

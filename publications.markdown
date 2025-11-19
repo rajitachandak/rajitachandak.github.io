@@ -7,7 +7,7 @@ permalink: /research/
 ## Publications
 - **lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators** <br>
 with
-[Matias Cattaneo](https://cattaneo.princeton.edu),
+[Matias Cattaneo](https://mdcattaneo.github.io),
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)<br>
@@ -16,7 +16,7 @@ and
 
 - **Convergence rates of oblique regression trees for flexible function libraries** <br>
 with
-[Matias Cattaneo](https://cattaneo.princeton.edu)
+[Matias Cattaneo](https://mdcattaneo.github.io)
 and
 [Jason Klusowski](https://klusowski.princeton.edu) <br>
 *Annals of Statistics*, 2024, Vol. 52, No. 2, 466-490
@@ -25,7 +25,7 @@ and
 
 - **Boundary adaptive local polynomial conditional density estimators** <br>
 with
-[Matias Cattaneo](https://cattaneo.princeton.edu),
+[Matias Cattaneo](https://mdcattaneo.github.io),
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)<br>
@@ -46,7 +46,7 @@ and
 ## Working Papers
 - **Consistency of the EM algorithm in high dimensions** <br>
 with
-[Matias Cattaneo](https://cattaneo.princeton.edu)
+[Matias Cattaneo](https://mdcattaneo.github.io)
 and
 [Jason Klusowski](https://klusowski.princeton.edu)
 
@@ -54,7 +54,7 @@ and
 
 - **Manipulation testing based on distance to boundaries** <br>
 with
-[Matias Cattaneo](https://cattaneo.princeton.edu),
+[Matias Cattaneo](https://mdcattaneo.github.io),
 [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
 and
 [Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)

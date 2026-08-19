@@ -4,6 +4,20 @@ title: Research
 permalink: /research/
 ---
 
+## Preprints
+- **Global convergence of EM for mixtures of exponentials** <br>
+with
+Kathryn Dullerud
+<br>
+***[arXiv](https://arxiv.org/abs/2606.28053)***
+- **On the convergence of a federated expectation-maximization algorithm** <br>
+with
+[Zhixu Tao](https://www.linkedin.com/in/zhixu-tao-a02b77199/)
+and
+[Sanjeev Kulkarni](https://www.princeton.edu/~kulkarni/)
+<br>
+***[arXiv](https://arxiv.org/abs/2408.05819)***
+
 ## Publications
 - **lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators** <br>
 with
@@ -32,32 +46,6 @@ and
 *Bernoulli*, 2024, Vol. 30, No. 4, 3193-3223
 <br>
 ***[Paper](http://dx.doi.org/10.3150/23-BEJ1711)*** | ***[R package](https://nppackages.github.io/lpcde)***
-
-## Preprints
-- **On the convergence of a federated expectation-maximization algorithm** <br>
-with
-[Zhixu Tao](https://www.linkedin.com/in/zhixu-tao-a02b77199/)
-and
-[Sanjeev Kulkarni](https://www.princeton.edu/~kulkarni/)
-<br>
-*Submitted* <br>
-***[arXiv](https://arxiv.org/abs/2408.05819)***
-
-## Working Papers
-- **Consistency of the EM algorithm in high dimensions** <br>
-with
-[Matias Cattaneo](https://mdcattaneo.github.io)
-and
-[Jason Klusowski](https://klusowski.princeton.edu)
-
-- **Variable importance for oblique regression trees** <br>
-
-- **Manipulation testing based on distance to boundaries** <br>
-with
-[Matias Cattaneo](https://mdcattaneo.github.io),
-[Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/)
-and
-[Xinwei Ma](https://sites.google.com/view/xinweima/home?authuser=0)
 
 ## Software
 

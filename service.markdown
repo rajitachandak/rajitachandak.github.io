@@ -44,7 +44,7 @@ Lead semester-long civics education classes in Providence middle and high school
 
 - **Statistical foundations of data science and their applications**, Princeton University
 <br>
-*Local organizing committee member**
+*Local organizing committee member*
 <br>
 May 2023
 

@@ -7,6 +7,11 @@ permalink: /teaching/
 ## Instructor
 A list of courses I have served as the primary instructor for, in reverse chronological order.
 
+### University of Wisconsin-Madison
+
+#### Undergraduate Courses
+STAT 436: Statistical data visualization, Spring 2027. <br>
+
 ### EPFL
 #### Graduate Courses
 MATH 524: Nonparametric estimation and inference, Spring 2026. <br>
